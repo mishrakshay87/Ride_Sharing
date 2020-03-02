@@ -7,3 +7,4 @@ a) driver_ids.csv - A file containing basic information about the drivers (drive
 b) ride_ids.csv - A mapping between ride ids and driver ids.
 c) ride_timestamps.csv - This file contains information about rides (ride duration, ride distance, pick up time etc.).
 
+We merge the 3 datasets together to get relevant data points for our analysis.
