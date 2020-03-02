@@ -17,8 +17,8 @@ We see that there is a difference between the ride distances of the drivers who 
 
 2) How do the riding dynamics differ between the churned and non churned drivers on weekdays/weekends? -
 
-a) The drivers that were not churned accept more requests early morning and late night.
-b) On the weekdays, the distribution of requests is almost identical between the two sets of drivers.
+* The drivers that were not churned accept more requests early morning and late night.
+* On the weekdays, the distribution of requests is almost identical between the two sets of drivers.
 
 3) Is there a difference in the amount of surcharge applied to the rides of churned vs non churned drivers? -
 
