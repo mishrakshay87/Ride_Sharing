@@ -1,5 +1,5 @@
 # Ride_Sharing
-Exploratory Data Analysis for a ride sharing application. We analyze the data to find if there are some indicators to predict driver churn behaviour. For this project, a driver is defined as churned if hedoesn't drive for 30 days.
+Exploratory Data Analysis for a ride sharing application. Driver churn is one of the major issues which ride sharing companies face on a daily basis, we analyze the data to find if there are some indicators to predict driver churn behaviour. For this project, a driver is defined as churned if he doesn't drive for 30 days.
 
 The dataset consis of 3 csv files - 
 
