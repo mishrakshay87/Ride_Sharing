@@ -3,9 +3,9 @@ Exploratory Data Analysis for a ride sharing application. We analyze the data to
 
 The dataset consis of 3 csv files - 
 
-a) driver_ids.csv - A file containing basic information about the drivers (driver id, onboarding date).
-b) ride_ids.csv - A mapping between ride ids and driver ids.
-c) ride_timestamps.csv - This file contains information about rides (ride duration, ride distance, pick up time etc.).
+* driver_ids.csv - A file containing basic information about the drivers (driver id, onboarding date).
+* ride_ids.csv - A mapping between ride ids and driver ids.
+* ride_timestamps.csv - This file contains information about rides (ride duration, ride distance, pick up time etc.).
 
 We merge the 3 datasets together to get relevant data points for our analysis.
 
