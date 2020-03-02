@@ -11,7 +11,7 @@ We merge the 3 datasets together to get relevant data points for our analysis.
 
 In doing this analysis, answered the following questions - 
 
-1) *Is there a difference in the avergage ride distances made by churned vs non churned drivers? - *
+1) *Is there a difference in the avergage ride distances made by churned vs non churned drivers? -*
 
 We see that there is a difference between the ride distances of the drivers who churned vs drivers who didn’t churn, the differences primarily come into play during the weekdays when the non churned drivers make longer rides ~12miles as compared to the drivers who churned ~ 2.5 miles.
 
